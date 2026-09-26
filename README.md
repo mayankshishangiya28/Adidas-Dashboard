@@ -138,22 +138,6 @@ Interactive Region and Invoice Date filters
 
 Business-focused visual hierarchy for quick decision-making
 
-📂 Suggested Repository Structure
-
-Adidas-Sales-Analysis/
-│
-├── README.md
-├── assets/
-│   └── adidas-sales-dashboard.png
-│
-├── data/
-│   └── adidas_sales_data.xlsx
-│
-└── dashboard/
-    └── Adidas_Sales_Analysis.pbix
-
-Rename the files/folders to match the actual files in your repository.
-
 📷 Dashboard Preview
 
 <p align="center">
