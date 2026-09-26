@@ -157,7 +157,7 @@ Rename the files/folders to match the actual files in your repository.
 📷 Dashboard Preview
 
 <p align="center">
-  <img src="assets/adidas-sales-dashboard.png" alt="Adidas Sales Analysis Power BI Dashboard" width="100%">
+  <img src="Adidas_Sales_Dashboard.png" alt="Adidas Sales Analysis Power BI Dashboard" width="100%">
 </p>
 
 💡 Example Business Insights
